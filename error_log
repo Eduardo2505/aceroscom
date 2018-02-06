@@ -1,0 +1,76 @@
+[19-Dec-2017 23:17:11 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';' in /home/carritoe/acerosermita.com/enviar.php on line 9
+[19-Dec-2017 23:19:22 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';' in /home/carritoe/acerosermita.com/enviar.php on line 9
+[20-Dec-2017 15:49:22 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$destino' (T_VARIABLE) in /home/carritoe/acerosermita.com/enviar.php on line 3
+[20-Dec-2017 15:56:29 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$destino' (T_VARIABLE) in /home/carritoe/acerosermita.com/enviar.php on line 3
+[20-Dec-2017 16:21:30 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/carritoe/acerosermita.com/cotizaEmail.php on line 51
+[20-Dec-2017 16:27:09 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/carritoe/acerosermita.com/cotizaEmail.php on line 51
+[20-Dec-2017 16:27:09 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/carritoe/acerosermita.com/cotizaEmail.php on line 51
+[20-Dec-2017 16:27:15 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/carritoe/acerosermita.com/cotizaEmail.php on line 51
+[20-Dec-2017 16:27:29 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/carritoe/acerosermita.com/cotizaEmail.php on line 51
+[20-Dec-2017 17:22:40 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/carritoe/acerosermita.com/cotizaEmail.php on line 51
+[20-Dec-2017 17:23:04 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/carritoe/acerosermita.com/cotizaEmail.php on line 51
+[20-Dec-2017 17:27:03 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/carritoe/acerosermita.com/cotizaEmail.php on line 35
+[20-Dec-2017 17:29:06 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/carritoe/acerosermita.com/cotizaEmail.php on line 35
+[20-Dec-2017 17:30:01 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/carritoe/acerosermita.com/cotizaEmail.php on line 35
+[20-Dec-2017 17:30:06 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/carritoe/acerosermita.com/cotizaEmail.php on line 35
+[20-Dec-2017 17:46:30 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$destino' (T_VARIABLE) in /home/carritoe/acerosermita.com/enviar.php on line 2
+[20-Dec-2017 17:46:30 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$destino' (T_VARIABLE) in /home/carritoe/acerosermita.com/enviar.php on line 2
+[20-Dec-2017 17:47:04 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$destino' (T_VARIABLE) in /home/carritoe/acerosermita.com/enviar.php on line 2
+[28-Dec-2017 12:39:58 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$destino' (T_VARIABLE) in /home/carritoe/acerosermita.com/enviar.php on line 2
+[28-Dec-2017 12:42:21 America/Mexico_City] PHP Notice:  Undefined variable: cuerpo in /home/carritoe/acerosermita.com/cotizaEmail.php on line 30
+[28-Dec-2017 12:42:21 America/Mexico_City] PHP Notice:  Undefined variable: headers in /home/carritoe/acerosermita.com/cotizaEmail.php on line 31
+[10-Jan-2018 23:26:29 America/Mexico_City] PHP Parse error:  syntax error, unexpected '¨' (T_STRING), expecting ')' in /home/carritoe/acerosermita.com/cotizaEmail.php on line 79
+[10-Jan-2018 23:27:59 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 37
+[10-Jan-2018 23:27:59 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 38
+[10-Jan-2018 23:27:59 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 39
+[10-Jan-2018 23:27:59 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 40
+[10-Jan-2018 23:27:59 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 41
+[10-Jan-2018 23:27:59 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 42
+[10-Jan-2018 23:27:59 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 43
+[10-Jan-2018 23:27:59 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 44
+[10-Jan-2018 23:27:59 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 45
+[10-Jan-2018 23:27:59 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 46
+[10-Jan-2018 23:29:01 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$destino' (T_VARIABLE) in /home/carritoe/acerosermita.com/enviar.php on line 2
+[10-Jan-2018 23:30:12 America/Mexico_City] PHP Notice:  Undefined index: nombre in /home/carritoe/acerosermita.com/contacto.php on line 3
+[10-Jan-2018 23:30:12 America/Mexico_City] PHP Notice:  Undefined index: telefono in /home/carritoe/acerosermita.com/contacto.php on line 5
+[10-Jan-2018 23:30:12 America/Mexico_City] PHP Notice:  Undefined index: mensaje in /home/carritoe/acerosermita.com/contacto.php on line 6
+[10-Jan-2018 23:30:12 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/contacto.php on line 29
+[10-Jan-2018 23:30:12 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/contacto.php on line 30
+[10-Jan-2018 23:30:12 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/contacto.php on line 31
+[10-Jan-2018 23:30:12 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/contacto.php on line 32
+[10-Jan-2018 23:30:12 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/contacto.php on line 33
+[10-Jan-2018 23:30:12 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/contacto.php on line 34
+[10-Jan-2018 23:30:12 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/contacto.php on line 35
+[10-Jan-2018 23:30:12 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/contacto.php on line 36
+[10-Jan-2018 23:30:12 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/contacto.php on line 37
+[10-Jan-2018 23:30:12 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/contacto.php on line 38
+[10-Jan-2018 23:32:42 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/contacto.php on line 29
+[10-Jan-2018 23:32:42 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/contacto.php on line 30
+[10-Jan-2018 23:32:42 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/contacto.php on line 31
+[10-Jan-2018 23:32:42 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/contacto.php on line 32
+[10-Jan-2018 23:32:42 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/contacto.php on line 33
+[10-Jan-2018 23:32:42 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/contacto.php on line 34
+[10-Jan-2018 23:32:42 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/contacto.php on line 35
+[10-Jan-2018 23:32:42 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/contacto.php on line 36
+[10-Jan-2018 23:32:42 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/contacto.php on line 37
+[10-Jan-2018 23:32:42 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/contacto.php on line 38
+[11-Jan-2018 01:26:35 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 37
+[11-Jan-2018 01:26:35 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 38
+[11-Jan-2018 01:26:35 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 39
+[11-Jan-2018 01:26:35 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 40
+[11-Jan-2018 01:26:35 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 41
+[11-Jan-2018 01:26:35 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 42
+[11-Jan-2018 01:26:35 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 43
+[11-Jan-2018 01:26:35 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 44
+[11-Jan-2018 01:26:35 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 45
+[11-Jan-2018 01:26:35 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 46
+[17-Jan-2018 17:23:41 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 37
+[17-Jan-2018 17:23:41 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 38
+[17-Jan-2018 17:23:41 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 39
+[17-Jan-2018 17:23:41 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 40
+[17-Jan-2018 17:23:41 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 41
+[17-Jan-2018 17:23:41 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 42
+[17-Jan-2018 17:23:41 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 43
+[17-Jan-2018 17:23:41 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 44
+[17-Jan-2018 17:23:41 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 45
+[17-Jan-2018 17:23:41 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/carritoe/acerosermita.com/cotizaEmail.php on line 46
